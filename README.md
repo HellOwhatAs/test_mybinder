@@ -1,0 +1,13 @@
+```
+ipykernel
+scipy
+numpy
+matplotlib
+pandas
+Pillow
+numba
+sympy
+tqdm
+scikit-opt
+```
+[https://mybinder.org/v2/gh/HellOwhatAs/test_mybinder/HEAD?labpath=main.ipynb](https://mybinder.org/v2/gh/HellOwhatAs/test_mybinder/HEAD?labpath=main.ipynb)
